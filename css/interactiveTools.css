@@ -85,14 +85,14 @@ margin-top: 50px;
 .mood-tracker .container form button {
     padding: 10px 20px;
     border: none;
-    background-color: #4CAF50;
+    background-color: #78145d;
     color: #fff;
     border-radius: 4px;
     cursor: pointer;
 }
 
 .mood-tracker .container form button:hover {
-    background-color: #45a049;
+    background-color: #78145d;
 }
 
 
